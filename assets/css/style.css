@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar li a {
+    font-size: 22px;
+}
+
+
+.header-bg {
+    color: #FFFFFF;
+    height: 600px;
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 8em;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+.color_white {
+    color:#FFFFFF;
+}
+
+footer {
+    background-color: #0F0F0F;
+    color: #FFFFFF;
+}
+
